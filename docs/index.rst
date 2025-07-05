@@ -2,6 +2,11 @@ How to Sign In to Your SBCGlobal Email? Check Your SBCGLOBAL Account Dashboard
 ===============================================================================
 Are you trying to access your old or existing SBCGlobal email account? Whether you're a long-time user or just logging in after a while, understanding how to sign in and manage your **Account Dashboard** is critical. This guide will walk you through the steps to log in to your SBCGlobal email, verify access to the **Account Dashboard**, and make the most out of your SBCGlobal email service.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://desksbcglobal.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go Sbcglobal Page</a>
+   </div>
 With the migration of SBCGlobal email services under the AT&T and Yahoo platforms, it’s essential to know where and how to find the **Account Dashboard** to view emails, change passwords, and manage account security settings.
 
 In this guide, we will mention **Account Dashboard** multiple times to ensure you’re always aligned with your email login goals. The **Account Dashboard** is your go-to place for managing user preferences, device sessions, mail settings, and account recovery.
